@@ -46,7 +46,7 @@
       "chainId": 199,
       "address": "0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e",
       "decimals": 18,
-      "name": " SushiToken_Ethereum",
+      "name": "SushiToken_Ethereum",
       "symbol": "SUSHI_e",
       "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e/logo.png"
     },
