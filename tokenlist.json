@@ -45,7 +45,7 @@
     {
       "chainId": 199,
       "address": "0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e",
-      "decimals": 6,
+      "decimals": 18,
       "name": " SushiToken_Ethereum",
       "symbol": "SUSHI_e",
       "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e/logo.png"
@@ -53,7 +53,7 @@
     {
       "chainId": 199,
       "address": "0x65676055E58b02E61272Cedec6E5C6D56BADfb86",
-      "decimals": 6,
+      "decimals": 18,
       "name": "BitTorrent_Ethereum",
       "symbol": "BTT_e",
       "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x65676055E58b02E61272Cedec6E5C6D56BADfb86/logo.png"
