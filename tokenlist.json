@@ -1,0 +1,38 @@
+{
+  "name": "Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
+  "keywords": [
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-06-10T15:42:00+00:00",
+  "tokens": [
+    {
+      "chainId": 199,
+      "address": "0xC0e303034B59132E4F5230ac53F076C4D682431e",
+      "decimals": 18,
+      "name": "Quack",
+      "symbol": "QUACK",
+      "logoURI": "https://raw.githubusercontent.com/hotcrosscom/quackswap-assets/main/assets/0xC0e303034B59132E4F5230ac53F076C4D682431e/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "logoURI": "https://raw.githubusercontent.com/hotcrosscom/quackswap-assets/main/assets/0xAE17940943BA9440540940DB0F1877f101D39e8b/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xb218cb9ae3477524d2865468BA15431d7C535558",
+      "decimals": 18,
+      "name": "Dummy",
+      "symbol": "PGL",
+      "logoURI": "https://raw.githubusercontent.com/hotcrosscom/quackswap-assets/main/assets/0xb218cb9ae3477524d2865468BA15431d7C535558/logo.png"
+    }
+  ]
+}
