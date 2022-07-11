@@ -1,6 +1,6 @@
 {
   "name": "Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
+  "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xC0e303034B59132E4F5230ac53F076C4D682431e/logo.png",
   "keywords": [
   ],
   "version": {
@@ -16,7 +16,7 @@
       "decimals": 18,
       "name": "Quack",
       "symbol": "QUACK",
-      "logoURI": "https://raw.githubusercontent.com/hotcrosscom/quackswap-assets/main/assets/0xC0e303034B59132E4F5230ac53F076C4D682431e/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xC0e303034B59132E4F5230ac53F076C4D682431e/logo.png"
     },
     {
       "chainId": 199,
@@ -24,7 +24,71 @@
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC.e",
-      "logoURI": "https://raw.githubusercontent.com/hotcrosscom/quackswap-assets/main/assets/0xAE17940943BA9440540940DB0F1877f101D39e8b/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xAE17940943BA9440540940DB0F1877f101D39e8b/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x185a4091027E2dB459a2433F85f894dC3013aeB5/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e",
+      "decimals": 6,
+      "name": " SushiToken_Ethereum",
+      "symbol": "SUSHI_e",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x65676055E58b02E61272Cedec6E5C6D56BADfb86",
+      "decimals": 6,
+      "name": "BitTorrent_Ethereum",
+      "symbol": "BTT_e",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x65676055E58b02E61272Cedec6E5C6D56BADfb86/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
+      "decimals": 18,
+      "name": "Binance-Peg BSC-USD_BSC",
+      "symbol": "USDT_b",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
+      "decimals": 18,
+      "name": "Tether USD_Ethereum",
+      "symbol": "USDT_e",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E",
+      "decimals": 18,
+      "name": "BitTorrent_BSC",
+      "symbol": "BTT_b",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100",
+      "decimals": 18,
+      "name": "Dai Stablecoin_Ethereum",
+      "symbol": "DAI_e",
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png"
     },
     {
       "chainId": 199,
@@ -32,7 +96,7 @@
       "decimals": 18,
       "name": "Dummy",
       "symbol": "PGL",
-      "logoURI": "https://raw.githubusercontent.com/hotcrosscom/quackswap-assets/main/assets/0xb218cb9ae3477524d2865468BA15431d7C535558/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xb218cb9ae3477524d2865468BA15431d7C535558/logo.png"
     }
   ]
 }
