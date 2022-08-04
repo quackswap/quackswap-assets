@@ -89,14 +89,6 @@
       "name": "Dai Stablecoin_Ethereum",
       "symbol": "DAI_e",
       "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png"
-    },
-    {
-      "chainId": 199,
-      "address": "0xb218cb9ae3477524d2865468BA15431d7C535558",
-      "decimals": 18,
-      "name": "Dummy",
-      "symbol": "PGL",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xb218cb9ae3477524d2865468BA15431d7C535558/logo.png"
     }
   ]
 }
