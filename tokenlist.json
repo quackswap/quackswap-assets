@@ -1,5 +1,5 @@
 {
-  "name": "Tokenlist",
+  "name": "QuackSwap Token List",
   "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x203F4e30Fd3e7691E542855CA07252b7E49dD9f5/logo.png",
   "keywords": [
   ],
@@ -12,7 +12,7 @@
   "tokens": [
     {
       "chainId": 199,
-      "address": "0x203F4e30Fd3e7691E542855CA07252b7E49dD9f5",
+      "address": "0x54f0f82b7571f44d0eaa1de4188f14d394d9b2fc",
       "decimals": 18,
       "name": "Quack",
       "symbol": "QUACK",
