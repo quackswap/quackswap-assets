@@ -1,6 +1,6 @@
 {
   "name": "QuackSwap Token List",
-  "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x203F4e30Fd3e7691E542855CA07252b7E49dD9f5/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xF682fBac14efaacb59B20898809B304e86cD3b7D/logo.png",
   "keywords": [
   ],
   "version": {
@@ -12,19 +12,43 @@
   "tokens": [
     {
       "chainId": 199,
-      "address": "0x54f0f82b7571f44d0eaa1de4188f14d394d9b2fc",
+      "address": "0xF682fBac14efaacb59B20898809B304e86cD3b7D",
       "decimals": 18,
       "name": "Quack",
       "symbol": "QUACK",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x203F4e30Fd3e7691E542855CA07252b7E49dD9f5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xF682fBac14efaacb59B20898809B304e86cD3b7D/logo.png"
     },
     {
       "chainId": 199,
       "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
       "decimals": 6,
-      "name": "USD Coin",
-      "symbol": "USDC.e",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xAE17940943BA9440540940DB0F1877f101D39e8b/logo.png"
+      "name": "USD Coin_Ethereum",
+      "symbol": "USDC_e",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xAE17940943BA9440540940DB0F1877f101D39e8b/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x935faA2FCec6Ab81265B301a30467Bbc804b43d3",
+      "decimals": 6,
+      "name": "USD Coin_TRON",
+      "symbol": "USDC_t",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x935faA2FCec6Ab81265B301a30467Bbc804b43d3/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF",
+      "decimals": 18,
+      "name": "USD Coin_BSC",
+      "symbol": "USDC_b",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+      "decimals": 8,
+      "name": "Wrapped BTC_Ethereum",
+      "symbol": "WBTC_e",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF/logo.png"
     },
     {
       "chainId": 199,
@@ -32,15 +56,47 @@
       "decimals": 18,
       "name": "ETH",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50",
+      "decimals": 18,
+      "name": "Ethereum Token_BSC",
+      "symbol": "ETH_b",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+      "decimals": 18,
+      "name": "Decentralized USD_TRON",
+      "symbol": "USDD_t",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1/logo.png"
     },
     {
       "chainId": 199,
       "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
       "decimals": 18,
-      "name": "BNB",
+      "name": "Binance Coin",
       "symbol": "BNB",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x185a4091027E2dB459a2433F85f894dC3013aeB5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x185a4091027E2dB459a2433F85f894dC3013aeB5/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x5d9a3948a688aa40b5F2e1Ab58B80872FfF038A7",
+      "decimals": 9,
+      "name": "Metronotes",
+      "symbol": "XMN",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x5d9a3948a688aa40b5F2e1Ab58B80872FfF038A7/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x18fA72e0EE4C580a129b0CE5bD0694d716C7443E",
+      "decimals": 18,
+      "name": "Kyber Network Crystal v2 - BSC",
+      "symbol": "KNC_b",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x18fA72e0EE4C580a129b0CE5bD0694d716C7443E/logo.png"
     },
     {
       "chainId": 199,
@@ -48,7 +104,7 @@
       "decimals": 18,
       "name": "SushiToken_Ethereum",
       "symbol": "SUSHI_e",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e/logo.png"
     },
     {
       "chainId": 199,
@@ -56,7 +112,23 @@
       "decimals": 18,
       "name": "BitTorrent_Ethereum",
       "symbol": "BTT_e",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x65676055E58b02E61272Cedec6E5C6D56BADfb86/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x65676055E58b02E61272Cedec6E5C6D56BADfb86/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A",
+      "decimals": 18,
+      "name": "Wrapped BTT",
+      "symbol": "WBTT",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x8D193c6efa90BCFf940A98785d1Ce9D093d3DC8A/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xb09349DDd39454d539EDC17Fc68eCC50E8e13377",
+      "decimals": 18,
+      "name": "HYBERBTT",
+      "symbol": "HYBERBTT",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xb09349DDd39454d539EDC17Fc68eCC50E8e13377/logo.png"
     },
     {
       "chainId": 199,
@@ -64,15 +136,23 @@
       "decimals": 18,
       "name": "Binance-Peg BSC-USD_BSC",
       "symbol": "USDT_b",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d/logo.png"
     },
     {
       "chainId": 199,
       "address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
-      "decimals": 18,
+      "decimals": 6,
       "name": "Tether USD_Ethereum",
       "symbol": "USDT_e",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+      "decimals": 6,
+      "name": "Tether USD_TRON",
+      "symbol": "USDT_t",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xdB28719F7f938507dBfe4f0eAe55668903D34a15/logo.png"
     },
     {
       "chainId": 199,
@@ -80,7 +160,15 @@
       "decimals": 18,
       "name": "BitTorrent_BSC",
       "symbol": "BTT_b",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xE467F79E9869757DD818DfB8535068120F6BcB97",
+      "decimals": 18,
+      "name": "Kyber Network Crystal v2 - Ethereum",
+      "symbol": "KNC_e",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xE467F79E9869757DD818DfB8535068120F6BcB97/logo.png"
     },
     {
       "chainId": 199,
@@ -88,7 +176,15 @@
       "decimals": 18,
       "name": "Dai Stablecoin_Ethereum",
       "symbol": "DAI_e",
-      "logoURI": "https://raw.githubusercontent.com/Apocentre/quackswap-assets/main/assets/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xe7dC549AE8DB61BDE71F22097BEcc8dB542cA100/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+      "decimals": 18,
+      "name": "TRON",
+      "symbol": "TRX",
+      "logoURI": "https://raw.githubusercontent.com/quackswap/quackswap-assets/main/assets/0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662/logo.png"
     }
   ]
 }
